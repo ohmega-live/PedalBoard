@@ -1,3 +1,4 @@
+<img width="1919" height="1127" alt="screenshot" src="https://github.com/user-attachments/assets/4008c372-9565-4c9a-9259-d470c7fc1e7a" />
 # PedalBoard α1
 
 **Virtual pedalboard for Windows 10/11** — audio interface input → effects → output.
