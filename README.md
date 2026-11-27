@@ -1,6 +1,6 @@
 # PedalBoard α1
 
-**Virtual pedalboard for Windows 10/11** — audio interface input → effects → output.
+**Virtual pedalboard for Windows 10/11** - audio interface input → effects → output.
 Granular, delay, reverb, pitch + filter, a VST slot and a looper, all locked to the tempo of the music.
 
 By **8OHMEGA** · co-authored with Claude · [ohmega.live](https://www.ohmega.live)
@@ -41,24 +41,24 @@ The order of modules can be changed in **ARRANGE**.
 
 ### GRANULAR
 - **PAD / ARP / ECHO / DRIFT** — mode. **HOLD** — freeze the buffer.
-- **OCT / 5TH / OCT+/-** — grain intervals. **BASS MONO** — mono below 150 Hz.
+- **OCT / 5TH / OCT+/-** - grain intervals. **BASS MONO** — mono below 150 Hz.
 - **Buffer window:** tap to set **POSITION** (where grains are taken from).
-- **HEIGHT, GRAINS, SIZE, JITTER, REVERSE, SPREAD, FEEDBACK, MIX** — main controls.
-- **SHAPE** — grain envelope, from soft to sharp attack.
+- **HEIGHT, GRAINS, SIZE, JITTER, REVERSE, SPREAD, FEEDBACK, MIX** - main controls.
+- **SHAPE** - grain envelope, from soft to sharp attack.
 - **MAGNET** — pulls grains toward hits in the buffer (tighter rhythm).
-- **EVEN** — evens out grain loudness.
-- **REACT** — adds grains on every kick.
+- **EVEN** - evens out grain loudness.
+- **REACT** - adds grains on every kick.
 
 ### TEMPO
-- **AUTO** — tempo is detected from the track's kick; beat lamps blink on the beat.
-- **TAP** — tap the tempo; the first tap is beat 1. Tapping at a different tempo starts a new track.
-- **BPM RANGE** — range for tempo detection.
+- **AUTO** - tempo is detected from the track's kick; beat lamps blink on the beat.
+- **TAP** - tap the tempo; the first tap is beat 1. Tapping at a different tempo starts a new track.
+- **BPM RANGE** - range for tempo detection.
 - Effects with **TEMPO SYNC** (delay, looper, pads) follow the beat.
 
 ### LOOPER
-- **REC** — record; press again to close the loop. **QUANT** — start on the beat.
-- **CAPTURE** — make a loop from the last bars.
-- **Pads** — momentary beat-repeat.
+- **REC** - record; press again to close the loop. **QUANT** - start on the beat.
+- **CAPTURE** - make a loop from the last bars.
+- **Pads** - momentary beat-repeat.
 
 ### VST
 One slot for a VST plugin (its editor opens as a page or in a separate window).
@@ -72,7 +72,7 @@ One slot for a VST plugin (its editor opens as a page or in a separate window).
 
 Settings and the tempo log live in `%APPDATA%\MicroPedalBoard\`.
 
-- `bpm_log.txt` — if the BPM was detected wrong, please send this file along with your report.
+- `bpm_log.txt` - if the BPM was detected wrong, please send this file along with your report.
 
 ## Known limitations (alpha)
 
