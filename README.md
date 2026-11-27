@@ -1,10 +1,11 @@
-<img width="1919" height="1127" alt="screenshot" src="https://github.com/user-attachments/assets/4008c372-9565-4c9a-9259-d470c7fc1e7a" />
 # PedalBoard α1
 
 **Virtual pedalboard for Windows 10/11** — audio interface input → effects → output.
 Granular, delay, reverb, pitch + filter, a VST slot and a looper, all locked to the tempo of the music.
 
 By **8OHMEGA** · co-authored with Claude · [ohmega.live](https://www.ohmega.live)
+
+![PedalBoard α1 in the OHMG skin](screenshot.png)
 
 > ⚠️ **Alpha.** Expect bugs. Tempo (BPM) detection is still being tuned.
 
@@ -72,7 +73,6 @@ One slot for a VST plugin (its editor opens as a page or in a separate window).
 Settings and the tempo log live in `%APPDATA%\MicroPedalBoard\`.
 
 - `bpm_log.txt` — if the BPM was detected wrong, please send this file along with your report.
-- Optional: put a `logo_ohmega.png` next to the exe to show your own logo in the header.
 
 ## Known limitations (alpha)
 
